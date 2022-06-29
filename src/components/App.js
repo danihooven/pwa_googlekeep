@@ -32,7 +32,7 @@ function App() {
   }
 
   return (
-     <div classname="App">
+     <div className="App">
       <Header />
       <CreateArea onAdd={addNote} />
       {notes.map((noteItem, index) => {
