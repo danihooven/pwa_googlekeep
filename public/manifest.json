@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Keeper",
+  "name": "Note Keeper App like Google Keep",
   "icons": [
     {
       "src": "maskable_icon_x48.png",
